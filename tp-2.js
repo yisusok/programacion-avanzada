@@ -1,3 +1,12 @@
+/**
+ *      ---
+ *      DISCLAIMER
+ *      ---
+            TODO EL CODIGO QUE NO DIMOS TAL CUAL EN CLASE FUE EXTRAIDO DE MDN
+            COMO DETALLES DEL .MAP .REDUCE MATH Y OBJECT.VALUE
+ */
+
+
 //Ejercicio 1: Crear un objeto literal para un dispositivo de red
 // Crea un objeto literal que represente un router con las siguientes propiedades:
 // modelo, marca, puertos, velocidad (en Mbps), y soportaWifi.
