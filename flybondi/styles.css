@@ -1,0 +1,16 @@
+.lista{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    margin: 1rem;
+    border: solid 3px #67d6ea;
+}
